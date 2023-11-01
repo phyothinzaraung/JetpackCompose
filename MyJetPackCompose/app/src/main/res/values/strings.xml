@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyJetPackCompose</string>
+
+    <string name="text_src">Welcome to our Jetpack Compose Course, this is
+        a professional course that teaches you how to create amazing android
+        apps with the power of jetpack compose UI design. Yes, you\'ll master
+        all compose concepts with step-by-step tutorials and real exercises and
+        examples we\'ll build together. I hope you\'ll enjoy this course.
+        Welcome to our Jetpack Compose Course, this is
+        a professional course that teaches you how to create amazing android
+        apps with the power of jetpack compose UI design. Yes, you\'ll master
+        all compose concepts with step-by-step tutorials and real exercises and
+        examples we\'ll build together. I hope you\'ll enjoy this course.
+        Welcome to our Jetpack Compose Course, this is
+        a professional course that teaches you how to create amazing android
+        apps with the power of jetpack compose UI design. Yes, you\'ll master
+        all compose concepts with step-by-step tutorials and real exercises and
+        examples we\'ll build together. I hope you\'ll enjoy this course.
+    </string>
+
+</resources>
